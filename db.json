@@ -1,0 +1,139 @@
+{
+  "Users": [
+    {
+      "email": "adhiladhi516@gmail.com",
+      "username": "adhil",
+      "password": 123,
+      "id": 1
+    },
+    {
+      "email": "adhil123@gmail.com",
+      "username": "adhil",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "email": "ronith@gmail.com",
+      "username": "ronith",
+      "password": "123456",
+      "id": 3
+    }
+  ],
+  "Video": [
+    {
+      "videoId": "1",
+      "title": "sky full of stars",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf",
+      "videoUrl": "https://www.youtube.com/embed/zp7NtW_hKJI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+      "id": 1
+    },
+    {
+      "videoId": "2",
+      "title": "Husn",
+      "imageUrl": "https://media.telanganatoday.com/wp-content/uploads/2023/12/Husn.png",
+      "videoUrl": "https://www.youtube.com/embed/gJLVTKhTnog?si=R6ypWjMwqNbJ39mV&autoplay=1",
+      "id": 2
+    },
+    {
+      "videoId": "3",
+      "title": "Jo tum mere ho",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372a77d038887cdc425f5ee55",
+      "videoUrl": "https://www.youtube.com/embed/ilNt2bikxDI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+      "id": 3
+    }
+  ],
+  "Catogory": [
+    {
+      "categoryId": "1",
+      "title": "Music",
+      "videos": [
+        {
+          "videoId": "2",
+          "title": "Husn",
+          "imageUrl": "https://media.telanganatoday.com/wp-content/uploads/2023/12/Husn.png",
+          "videoUrl": "https://www.youtube.com/embed/gJLVTKhTnog?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 2
+        },
+        {
+          "videoId": "3",
+          "title": "Jo tum mere ho",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372a77d038887cdc425f5ee55",
+          "videoUrl": "https://www.youtube.com/embed/ilNt2bikxDI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 3
+        },
+        {
+          "videoId": "1",
+          "title": "sky full of stars",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf",
+          "videoUrl": "https://www.youtube.com/embed/zp7NtW_hKJI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 1
+        },
+        {
+          "videoId": "3",
+          "title": "Jo tum mere ho",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b27372a77d038887cdc425f5ee55",
+          "videoUrl": "https://www.youtube.com/embed/ilNt2bikxDI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 3
+        },
+        {
+          "videoId": "1",
+          "title": "sky full of stars",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf",
+          "videoUrl": "https://www.youtube.com/embed/zp7NtW_hKJI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 1
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryId": "2",
+      "title": "Video",
+      "videos": [
+        {
+          "videoId": "1",
+          "title": "sky full of stars",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf",
+          "videoUrl": "https://www.youtube.com/embed/zp7NtW_hKJI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 1
+        },
+        {
+          "videoId": "1",
+          "title": "sky full of stars",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b273e5a95573f1b91234630fd2cf",
+          "videoUrl": "https://www.youtube.com/embed/zp7NtW_hKJI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 1
+        },
+        {
+          "videoId": "2",
+          "title": "Husn",
+          "imageUrl": "https://media.telanganatoday.com/wp-content/uploads/2023/12/Husn.png",
+          "videoUrl": "https://www.youtube.com/embed/gJLVTKhTnog?si=R6ypWjMwqNbJ39mV&autoplay=1",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryId": "3",
+      "title": "Tutorial",
+      "videos": [],
+      "id": 3
+    }
+  ],
+  "History": [
+    {
+      "videoId": "2",
+      "title": "husn",
+      "url": "https://www.youtube.com/embed/gJLVTKhTnog?si=R6ypWjMwqNbJ39mV&autoplay=1",
+      "date": "2024-08-30T06:51:09.150Z",
+      "id": 1
+    },
+    {
+      "videoId": "3",
+      "title": "Jo tum mere ho",
+      "url": "https://www.youtube.com/embed/ilNt2bikxDI?si=R6ypWjMwqNbJ39mV&autoplay=1",
+      "date": "2024-09-04T06:07:54.006Z",
+      "id": 2
+    }
+  ]
+}
